@@ -37,7 +37,7 @@ function Home() {
     <div className="container pb-5 pt-3 bg-light">
       {/* Header */}
       <div className="px-3 d-flex shadow justify-content-between align-items-center " style={{ backgroundColor: "#eafdea" }}>
-        <h2 className="text-success pt-2">🌿 NS_Nursery </h2>
+        <h2 className="text-success pt-2">🌿 NS_Nursery best </h2>
 
         <div className="d-flex gap-3">
           <a href="https://wa.me/923094282079?text=السلام%20علیکم%2C%20مجھے%20پودے%20چاہیئے%20ہیں%2C%20رابطہ%20کیجیے۔" target="_blank" rel="noopener noreferrer">
